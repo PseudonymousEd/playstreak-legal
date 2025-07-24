@@ -3,8 +3,8 @@
 This repository contains the legal documents for PlayStreak app, hosted on GitHub Pages.
 
 ## Live URLs (after GitHub Pages setup):
-- **Privacy Policy**: `https://yourusername.github.io/playstreak-legal/privacy-policy.html`
-- **Terms & Conditions**: `https://yourusername.github.io/playstreak-legal/terms-and-conditions.html`
+- **Privacy Policy**: `https://pseudonymoused.github.io/playstreak-legal/privacy-policy.html`
+- **Terms & Conditions**: `https://pseudonymoused.github.io/playstreak-legal/terms-and-conditions.html`
 
 ## GitHub Pages Setup Instructions
 
@@ -30,8 +30,8 @@ Upload all files from this directory to your new repository:
 
 ### Step 4: Get Your URLs
 After 5-10 minutes, your legal documents will be live at:
-- `https://yourusername.github.io/playstreak-legal/privacy-policy.html`
-- `https://yourusername.github.io/playstreak-legal/terms-and-conditions.html`
+- `https://pseudonymoused.github.io/playstreak-legal/privacy-policy.html`
+- `https://pseudonymoused.github.io/playstreak-legal/terms-and-conditions.html`
 
 ### Step 5: Use in Google Play Console
 1. Go to Google Play Console
